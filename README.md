@@ -1,4 +1,4 @@
-# Microsoft Defender Exclusions Viewer
+# Windows Defender Exclusions Viewer
 
 This project is a C program that allows you to view the path exclusions set in **Windows Defender** using the Windows Registry API. It checks the system for any excluded files or directories from being scanned by Microsoft Defender.
 

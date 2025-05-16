@@ -62,6 +62,3 @@ Data Size: The size of the data associated with the excluded path (in bytes).
 
 ### Example:
 For the excluded path C:\Windows\AAct_Tools\AAct_files, the data type is REG_DWORD with a data size of 4 bytes.
-
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
